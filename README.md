@@ -51,6 +51,7 @@ Our initial testing focuses on generating the Doppler-swept carrier and verifyin
 - `Complex to Real`
 - `QT GUI Frequency Sink`
 - (Planned) `PLL Carrier Tracking` or custom loop for frequency estimation
+![flow](https://github.com/ngrabbs/carrier_tracker/blob/main/carrier_tracker_flow.png)
 
 ---
 
